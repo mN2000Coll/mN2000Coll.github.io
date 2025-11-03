@@ -6,7 +6,7 @@
 
 ### Mateusz 
 
-#### Slide 17 - Enterprise Part 1
+### Slide 17 - Enterprise Part 1
 
 Within business infrastructure, AI systems are integrated into workflows.
 
@@ -19,24 +19,24 @@ MCP can also make it so you do not have to bring all the systems under a rigid s
 
 If there is a need to add onto or modify a system, MCP can allow for this without it impacting other systems within an enterprise. A boon for scalability.
 
- Thus it can improve interoperability dramatically as enterprise systems will not affect others’ state, meaning less cost/ resources are required for maintaining the enterprise network.
+Thus it can improve interoperability dramatically as enterprise systems will not affect others’ state, meaning less cost/ resources are required for maintaining the enterprise network.
 
-#### Slide 18 - Enterprise Part 2
+### Slide 18 - Enterprise Part 2
 
 MCP Server can help Large Language Models interface, by providing a means of communicating, thus the LLMs can work together, useful for more complex workloads that require multiple LLMs.
 The automation of workflows can be achieved by having MCP server “guide” AI assistants to work in accordance with each other, and their respective duties.
  
 With MCP, the access it grants can allow for low latency during operation, and also allows for fault tolerance. Thus for systems that require data to delivered quickly, whether it’s emergency situations or they need for a system to be managed throughout an entire day without it failing, MCP server can allow for data to be delivered efficiently and with an ability to deal with potential breakdowns.
 
-#### Slide 19 - Some Examples
+### Slide 19 - Some Examples
 
-##### Customer Support Chatbots
+#### Customer Support Chatbots
 Using MCP, AI chatbots can draw from previous chats with the user, their account settings/permissions to ensure that any subsequent queries they engage in do not repeat unnecessary authentication steps and the chatbot can instead provide assistance relevant to the user’s current circumstances.
  
-##### Medical Diagnostics
+#### Medical Diagnostics
 Should a patient report certain health problems, MCP can gather from the patient’s past medical history, use of medication, symptoms, current condition to compile an information summary to the doctor, as opposed to this information being manually searched through databases by the doctor, which could be crucial in emergency situations.
 
-#### Slide 20 - Considerations for Implementations
+### Slide 20 - Considerations for Implementations
 
 When implementing it, businesses must be wary of data policies, security implementations, and network resources within their infrastructure that may affect the attempt of implementation.
 
@@ -48,23 +48,23 @@ There is still a potential need to optimise performance and to be considerate if
 
 ### Bibika
 
-#### Slide 21 - Pros and Cons
+### Slide 21 - Pros and Cons
 
 MCP is a major step forward in AI agent technology.
 However, like any developing standard, it needs to be carefully evaluated.
 
 To really understand how ready it is for wider use, we need to look at both its strengths and its challenges — the pros and the cons.
 
-#### Slide 22 - Pros and Cons Part 2
+### Slide 22 - Pros and Cons Part 2
 
-##### Security and Trust
+#### Security and Trust
 
 The MCP server gives us a structured way to manage connections. This helps control who can access the server and when.
 
 However, it doesn’t have strong built-in security features, which makes it open to certain risks and threats.
 To make it more secure, we’d need to add extra protection layers and better enforcement systems.
 
-##### Data Handling and Corrections
+#### Data Handling and Corrections
 
 MCP is great at finding and using different technologies to share data in an organized way.
 But, one big issue is that it doesn’t have clear rules for handling errors or faulty reports.
@@ -72,7 +72,7 @@ Because of that, the feedback we get from servers can sometimes be unreliable or
 
 Improving how it handles and corrects data would make it much more dependable.
 
-##### Future Visibility and Risk Investment
+#### Future Visibility and Risk Investment
 
 MCP has shown real progress and a strong focus on stability and open standards.
 But since the AI field is changing so fast, there’s always a chance that a newer, smarter protocol could take its place.
