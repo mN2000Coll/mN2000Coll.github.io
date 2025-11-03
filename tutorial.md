@@ -66,8 +66,16 @@ Click enable and you can use Anthropic's own AI assistant to help you.
 Click on extensions in the sidebar and locate "MCP Servers Installed" in the bottom. Github should show as installed.
 ![tut12](tutorImages/tut12.png)
 
+---
+---
+---
+---
+---
+---
+---
+---
 
-### UNDER CONSTRUCTION
+### UNDER CONSTRUCTION?
 
 
 
