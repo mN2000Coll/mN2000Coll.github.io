@@ -50,9 +50,34 @@ There is still a potential need to optimise performance and to be considerate if
 
 #### Slide 21 - Pros and Cons
 
+MCP is a major step forward in AI agent technology.
+However, like any developing standard, it needs to be carefully evaluated.
+
+To really understand how ready it is for wider use, we need to look at both its strengths and its challenges — the pros and the cons.
 
 #### Slide 22 - Pros and Cons Part 2
 
+##### Security and Trust
+
+The MCP server gives us a structured way to manage connections. This helps control who can access the server and when.
+
+However, it doesn’t have strong built-in security features, which makes it open to certain risks and threats.
+To make it more secure, we’d need to add extra protection layers and better enforcement systems.
+
+##### Data Handling and Corrections
+
+MCP is great at finding and using different technologies to share data in an organized way.
+But, one big issue is that it doesn’t have clear rules for handling errors or faulty reports.
+Because of that, the feedback we get from servers can sometimes be unreliable or inconsistent
+
+Improving how it handles and corrects data would make it much more dependable.
+
+##### Future Visibility and Risk Investment
+
+MCP has shown real progress and a strong focus on stability and open standards.
+But since the AI field is changing so fast, there’s always a chance that a newer, smarter protocol could take its place.
+
+To stay ahead, MCP will need to keep evolving and adapting to new technologies.
 
 ### References
 
