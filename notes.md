@@ -88,6 +88,7 @@ WorkOS (2024). 'How MCP Servers Work.' Retrieved from https://workos.com/blog/ho
 
 Forbes (2024). 'Anthropic’s Model Context Protocol: The Future of AI Interoperability.'
 
+#### Part 2
 •Chiplonkar, Aseem (2025). 'Model Context Protocol (MCP) in Enterprise Integration'. Retrieved from https://dev.to/adaptivanz/model-context-protocol-mcp-in-enterprise-integration-cgm
 
 Milvus (2025). ‘What are good examples of Model Context Protocol (MCP)-enabled applications?’. RETRIEVED FROM https://milvus.io/ai-quick-reference/what-are-good-examples-of-model-context-protocol-mcpenabled-applications
